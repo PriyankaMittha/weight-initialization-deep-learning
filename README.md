@@ -126,6 +126,6 @@ Proper weight initialization ensures:
 
 ## 📬 Contact
 
-📧 Email: mitthapriyanka16@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/priyanka-mittha
-💻 GitHub: https://github.com/PriyankaMittha
+- 📧 Email: mitthapriyanka16@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/priyanka-mittha
+- 💻 GitHub: https://github.com/PriyankaMittha
